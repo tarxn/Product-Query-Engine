@@ -1,0 +1,13 @@
+fastapi
+nltk==3.7
+numpy
+pandas
+qdrant_client
+requests
+scikit_learn
+sentence_transformers
+streamlit
+tensorflow
+tqdm
+transformers
+uvicorn
