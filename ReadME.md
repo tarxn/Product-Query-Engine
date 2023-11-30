@@ -88,14 +88,5 @@ streamlit run app.py
 
 Dataset used is [Big-Basket-Products-Dataset](https://chaabiv2.s3.ap-south-1.amazonaws.com/hiring/bigBasketProducts.csv)
 
-Here are some Search results:
-* .
- ![glucose](Data/glucose.png)
-
-* .
- ![tooth](Data/tooth_brush.png)
-***Special Thanks to Chaabi for giving the Problem Statement***
-![Problem-Statement](Data/Assignment.png)
-
 
 ***In the symphony of growth, knowledge is the key, and experience the gentle notes that compose our unique melody.***
