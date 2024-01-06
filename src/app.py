@@ -10,7 +10,7 @@ backend_endpoint = "http://127.0.0.1:8000"
 class ProductSearchApp:
     def __init__(self, backend_endpoint):
         self.backend_endpoint = backend_endpoint
-        self.intro_text = "Made with 😍 by Bijinapally tarun, \n⭐Indian Institute of Technology Dehli \n⭐Email - Bijanapally.Tarun.ee320@ee.iitd.ac.in\n⭐Mobile - +91-9701966915\n⭐Linkedin - tarun-bijinapally-\n\t~Chaabi Hiring'24"
+        self.intro_text = "Made with 😍 by Bijinapally tarun, \n⭐Indian Institute of Technology Dehli \n⭐Email - Bijanapally.Tarun.ee320@ee.iitd.ac.in\n⭐Mobile - +91-9701966915\n⭐Linkedin - tarun-bijinapally"
 
     def run(self):
         # Streamlit UI
