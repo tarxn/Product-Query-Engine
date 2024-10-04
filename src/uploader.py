@@ -113,7 +113,7 @@ class QdrantUploader:
 
     # Generate sentence embeddings using Sentence Transformers
     def generate_embeddings(self):
-        model = SentenceTransformer('all-MiniLM-L6-v2', device="cuda")
+        model = SentenceTransformer('all-MiniLM-L6-v2', device="cpu")
         # model = SentenceTransformer("paraphrase-albert-small-v2", device = "cuda")
 
         preprocessor = DataFramePreprocessor(self.csv_file_path)

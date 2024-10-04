@@ -11,3 +11,4 @@ tensorflow
 tqdm
 transformers
 uvicorn
+gunicorn
