@@ -2,7 +2,7 @@
 
 ![gif](Data/streamlit-preview.gif)
 
-**Qdrant + LLM + FastAPI + Streamlit**
+**Qdrant + Transformers + FastAPI + Streamlit**
 
 
 # Requirements
